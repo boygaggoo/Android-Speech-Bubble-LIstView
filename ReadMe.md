@@ -1,6 +1,6 @@
 This repository helps to increase awesomeness.
 
-![Screenshot: Launch image](https://github.com/AdilSoomro/Android-Speech-Bubble/raw/master/image.png)
+![Screenshot: Launch image](https://github.com/boygaggoo/Android-Speech-Bubble-LIstView/blob/master/Screen%20Shot%202014-09-21%20at%201.56.35%20PM%20copy.png)
 ![Screenshot: Launch image](https://github.com/AdilSoomro/Android-Speech-Bubble/raw/master/Screenshot_messages.png)
 
 About
